@@ -19,6 +19,7 @@ A lightweight machine learning project predicting next-day Apple (`AAPL`) stock 
 ```text
     [[  0 231]
     [  0 290]]
+```
 ### 2. Random Forest Classifier (n_estimators=500)
 * **Accuracy:** `52.78%`
 * **Classification Report:**
@@ -33,4 +34,4 @@ Classification Report:
     accuracy                           0.53       521
    macro avg       0.51      0.51      0.51       521
 weighted avg       0.52      0.53      0.52       521
-
+```
